@@ -1,0 +1,3 @@
+CREATE DATABASE artblogdb;
+CREATE USER dhaesha5 WITH PASSWORD 'dhaesha5';
+GRANT ALL PRIVILEGES ON DATABASE artblogdb TO dhaesha5;
